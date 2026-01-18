@@ -1,0 +1,1 @@
+Odd-Even Page Generator is a Python-based utility that automatically generates odd or even page numbers for PDF documents viewed in Adobe Acrobat Reader. It helps users avoid manual page number entry, saving time and reducing errors during document navigation and editing.
